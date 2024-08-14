@@ -1,6 +1,6 @@
 {
   "type": "BeamNode",
-  "name": "Plated Node",
+  "name": "Beam Node Level 3",
   "description": "A more resistant version of the beam node with a slightly larger range",
   "health": 420,
   "size": 3,
