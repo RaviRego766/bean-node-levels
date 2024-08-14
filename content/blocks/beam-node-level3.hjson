@@ -1,0 +1,18 @@
+{
+  "type": "BeamNode",
+  "name": "Plated Node",
+  "description": "A more resistant version of the beam node with a slightly larger range",
+  "health": 420,
+  "size": 1,
+  "consumesPower": true,
+  "range": 20,
+  "outputsPower": true,
+  "requirements": [
+    "beryllium/18",
+  ],
+  "consumes": {
+      "powerBuffered": 6000
+  },
+  "category": "power",
+  "research": "beam-node-level2"
+  }
