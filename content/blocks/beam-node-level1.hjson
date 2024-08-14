@@ -3,7 +3,7 @@
   "name": "Beam Node Level 1",
   "description": "A more resistant version of the beam node with a slightly range",
   "health": 420,
-  "size": 1,
+  "size": 3,
   "consumesPower": true,
   "range": 5,
   "outputsPower": true,
