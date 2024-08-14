@@ -1,0 +1,18 @@
+{
+  "type": "BeamNode",
+  "name": "Beam Node Level 2",
+  "description": "A more resistant version of the beam node with a slightly larger range",
+  "health": 420,
+  "size": 1,
+  "consumesPower": true,
+  "range": 10,
+  "outputsPower": true,
+  "requirements": [
+    "beryllium/6"
+  ],
+  "consumes": {
+      "powerBuffered": 6000
+  },
+  "category": "power",
+  "research": "beam-node-level1"
+  }
